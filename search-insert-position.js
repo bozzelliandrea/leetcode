@@ -22,6 +22,7 @@ Output: 4
 */
 
 /**
+ * Binary Search with O(log n)
  * @param {number[]} nums
  * @param {number} target
  * @return {number}
