@@ -19,7 +19,7 @@
     <td>724</td>
     <td>Find Pivot Index</td>
     <td>Easy</td>
-    <td></td>
+    <td>https://github.com/bozzelliandrea/leetcode/blob/main/find-pivot-index.js</td>
   </tr>
   <tr>
     <td>205</td>
