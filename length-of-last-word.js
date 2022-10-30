@@ -32,3 +32,19 @@ var lengthOfLastWord = function(s) {
     
     return letterCount;
 };
+
+// faster solution
+const lengthOfLastWord = function(s) {
+    let size = 0;
+
+    for(let i=s.length - 1; i >= 0; i--) {
+      if(s[i] == ' ' && size != 0)
+          break;
+      else if (s[i] != ' ')
+        size++
+        
+    }
+    
+    return size;
+};
+
