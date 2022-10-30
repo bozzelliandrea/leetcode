@@ -45,7 +45,7 @@ var pivotIndex = function(nums) {
     for(let n of nums)
         totalsum += n;
 
-     for(let i = 0; i < nums.length; i++) {
+    for(let i = 0; i < nums.length; i++) {
         if(leftsum == (totalsum - nums[i]))
             return i;
         else {
@@ -54,4 +54,5 @@ var pivotIndex = function(nums) {
 
         }
     }
+    return -1;
 };
