@@ -7,12 +7,12 @@
     <th>Id</th>
     <th>Title</th>
     <th>Difficulty</th>
-    <th>Link</th>
+    <th>Code</th>
   </tr>
   <tr>
     <td>1480</td>
     <td>Running Sum of 1d Array</td>
     <td>Easy</td>
-    <td>https://leetcode.com/problems/running-sum-of-1d-array</td>
+    <td>https://github.com/bozzelliandrea/leetcode/blob/main/running-sum-of-1d-array.js</td>
   </tr>
 </table>
