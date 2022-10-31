@@ -31,7 +31,7 @@
     <td>392</td>
     <td>Is Subsequence</td>
     <td>Easy</td>
-    <td></td>
+    <td>https://github.com/bozzelliandrea/leetcode/blob/main/is-subsequence.js</td>
   </tr>
   <tr>
     <td>21</td>
