@@ -11,6 +11,14 @@ Explanation:
 In the above grid, the diagonals are:
 "[9]", "[5, 5]", "[1, 1, 1]", "[2, 2, 2]", "[3, 3]", "[4]".
 In each diagonal all elements are the same, so the answer is True.
+
+
+Complexity Analysis
+
+Time Complexity: O(M*N) where M is rows number and N col size.
+
+Space Complexity: O(1).
+
 */
 
 /**
