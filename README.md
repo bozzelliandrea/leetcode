@@ -25,7 +25,7 @@
     <td>205</td>
     <td>Isomorphic Strings</td>
     <td>Easy</td>
-    <td></td>
+    <td>https://github.com/bozzelliandrea/leetcode/blob/main/isomorphic-strings.js</td>
   </tr>
   <tr>
     <td>392</td>
