@@ -43,7 +43,7 @@
     <td>206</td>
     <td>Reverse Linked List</td>
     <td>Easy</td>
-    <td></td>
+    <td>https://github.com/bozzelliandrea/leetcode/blob/main/reverse-linked-list.js</td>
   </tr>
   
 </table>
