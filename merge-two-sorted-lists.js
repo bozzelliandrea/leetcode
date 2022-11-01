@@ -30,3 +30,16 @@ var mergeTwoLists = function(list1, list2) {
     
     return ll.next;
 };
+
+
+// mix and match
+var mergeTwoLists = function(l1, l2) {
+    if(!l1 || !l2) return l1 || l2
+    
+    if(l1.val > l2.val){
+        l2.next = mergeTwoLists(l1, l2.next)
+        return l2
+    }
+    l1.next = mergeTwoLists(l2, l1.next)
+    return l1
+};
