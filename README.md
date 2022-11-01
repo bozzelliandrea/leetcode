@@ -37,7 +37,7 @@
     <td>21</td>
     <td>Merge Two Sorted Lists</td>
     <td>Easy</td>
-    <td></td>
+    <td>https://github.com/bozzelliandrea/leetcode/blob/main/merge-two-sorted-lists.js</td>
   </tr>
   <tr>
     <td>206</td>
