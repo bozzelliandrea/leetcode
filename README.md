@@ -51,5 +51,13 @@
     <td>Easy</td>
     <td>https://github.com/bozzelliandrea/leetcode/blob/main/middle-of-the-linked-list.js</td>
   </tr>
+  <tr>
+    <td>142</td>
+    <td>Linked List Cycle II</td>
+    <td>Medium</td>
+    <td>https://github.com/bozzelliandrea/leetcode/blob/main/linked-list-cycle-ii.py</td>
+  </tr>
+  
+  
   
 </table>
