@@ -45,5 +45,11 @@
     <td>Easy</td>
     <td>https://github.com/bozzelliandrea/leetcode/blob/main/reverse-linked-list.js</td>
   </tr>
+  <tr>
+    <td>876</td>
+    <td>Middle of the Linked List</td>
+    <td>Easy</td>
+    <td>https://github.com/bozzelliandrea/leetcode/blob/main/middle-of-the-linked-list.js</td>
+  </tr>
   
 </table>
