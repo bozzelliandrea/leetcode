@@ -8,13 +8,11 @@
 
 class Solution(object):
     def detectCycle(self, head):
-        cur = head
         lookup = set()
         
-        while cur:
-            if cur in lookup: return cur
-            lookup.add(cur)
-            cur = cur.next
+        while head:
+            if head in lookup: return head
+            lookup.add(head)
+            head = head.next
             
         return None
-        
