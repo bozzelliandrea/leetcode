@@ -57,7 +57,16 @@
     <td>Medium</td>
     <td>https://github.com/bozzelliandrea/leetcode/blob/main/linked-list-cycle-ii.py</td>
   </tr>
-  
-  
-  
+  <tr>
+    <td>121</td>
+    <td>Best Time to Buy and Sell Stock</td>
+    <td>Easy</td>
+    <td>https://github.com/bozzelliandrea/leetcode/blob/main/best-time-to-buy-and-sell-stock.js</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>
