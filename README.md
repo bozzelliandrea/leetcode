@@ -64,9 +64,9 @@
     <td>https://github.com/bozzelliandrea/leetcode/blob/main/best-time-to-buy-and-sell-stock.js</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>409</td>
+    <td>Longest Palindrome</td>
+    <td>Easy</td>
+    <td>https://github.com/bozzelliandrea/leetcode/blob/main/longest-palindrome.js</td>
   </tr>
 </table>
