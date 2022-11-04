@@ -69,4 +69,16 @@
     <td>Easy</td>
     <td>https://github.com/bozzelliandrea/leetcode/blob/main/longest-palindrome.js</td>
   </tr>
+  <tr>
+    <td>589</td>
+    <td>N-ary Tree Preorder Traversal</td>
+    <td>Easy</td>
+    <td>https://github.com/bozzelliandrea/leetcode/blob/main/n-ary-tree-preorder-traversal.js</td>
+  </tr>
+  <tr>
+    <td>102</td>
+    <td>Binary Tree Level Order Traversal</td>
+    <td>Medium</td>
+    <td> </td>
+  </tr>
 </table>
