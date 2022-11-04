@@ -79,6 +79,6 @@
     <td>102</td>
     <td>Binary Tree Level Order Traversal</td>
     <td>Medium</td>
-    <td> </td>
+    <td>https://github.com/bozzelliandrea/leetcode/blob/main/binary-tree-level-order-traversal.js</td>
   </tr>
 </table>
