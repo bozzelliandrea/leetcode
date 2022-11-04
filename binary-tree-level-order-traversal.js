@@ -1,5 +1,7 @@
 /**
-LeetCode:
+LeetCode: https://leetcode.com/problems/binary-tree-level-order-traversal
+
+Explanation: https://leetcode.com/problems/binary-tree-level-order-traversal/solutions/1219328/js-python-java-c-easy-bfs-queue-solution-w-explanation/
 
 Given the root of a binary tree, return the level order traversal of its nodes' values. (i.e., from left to right, level by level).
 
