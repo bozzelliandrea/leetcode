@@ -81,4 +81,52 @@
     <td>Medium</td>
     <td>https://github.com/bozzelliandrea/leetcode/blob/main/binary-tree-level-order-traversal.js</td>
   </tr>
+  <tr>
+    <td>704</td>
+    <td>Binary Search</td>
+    <td>Easy</td>
+    <td>https://github.com/bozzelliandrea/leetcode/blob/main/binary-search.java</td>
+  </tr>
+  <tr>
+    <td>278</td>
+    <td>First Bad Version</td>
+    <td>Easy</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>Easy</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>Easy</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>Easy</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>Easy</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>Easy</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>Easy</td>
+    <td></td>
+  </tr>
 </table>
