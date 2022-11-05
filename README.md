@@ -91,7 +91,7 @@
     <td>278</td>
     <td>First Bad Version</td>
     <td>Easy</td>
-    <td></td>
+    <td>https://github.com/bozzelliandrea/leetcode/blob/main/first-bad-version.java</td>
   </tr>
   <tr>
     <td></td>
