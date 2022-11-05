@@ -1,5 +1,6 @@
 /**
   LeetCode: https://leetcode.com/problems/word-search-ii/description/
+  Solution: https://leetcode.com/problems/word-search-ii/solutions/59780/java-15ms-easiest-solution-100-00/
   YT: https://www.youtube.com/watch?v=asbcE9mZz_U&ab_channel=NeetCode
 
 Given an m x n board of characters and a list of strings words, return all words on the board.
