@@ -94,10 +94,10 @@
     <td>https://github.com/bozzelliandrea/leetcode/blob/main/first-bad-version.java</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td>Easy</td>
-    <td></td>
+    <td>98</td>
+    <td>Validate Binary Search Tree</td>
+    <td>Medium</td>
+    <td>https://github.com/bozzelliandrea/leetcode/blob/main/validate-binary-search-tree.js</td>
   </tr>
   <tr>
     <td></td>
