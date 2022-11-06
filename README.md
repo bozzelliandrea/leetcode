@@ -100,10 +100,10 @@
     <td>https://github.com/bozzelliandrea/leetcode/blob/main/validate-binary-search-tree.js</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td>Easy</td>
-    <td></td>
+    <td>235</td>
+    <td>Lowest Common Ancestor of a Binary Search Tree</td>
+    <td>Medium</td>
+    <td>https://github.com/bozzelliandrea/leetcode/blob/main/lowest-common-ancestor-of-a-binary-search-tree.js</td>
   </tr>
   <tr>
     <td></td>
