@@ -31,5 +31,5 @@ var maximum69Number  = function(num) {
        } 
     }    
 
-    return parseInt(nums.join(""));
+    return +nums.join("");
 };
