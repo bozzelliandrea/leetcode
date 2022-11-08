@@ -28,3 +28,17 @@ var makeGood = function(s) {
 
     return s;
 };
+
+// alternative with array
+const makeGood = s => {
+    const stack = [];
+    
+    for (const c of s) {
+        const last = stack.at(-1);
+        
+        if (last && c !== last && c.toLowerCase() === last.toLowerCase()) {
+            stack.pop();
+        } else {
+            stack.push(c);
+        }
+}
